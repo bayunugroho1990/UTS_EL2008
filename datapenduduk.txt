@@ -1,0 +1,5 @@
+1;0996788736;Adam Suseno;Jakarta;01011980;39;L;AB;Kawin;Pegawai Swasta
+2;0999820635;Cintia Damanik;Bandar Lampung;01021981;38;P;B;Kawin;Pegawai Swasta
+3;1002861756;Sofie Agustin;Bandung;01031982;37;P;AB;Tidak Kawin;PNS
+4;1005912127;Elly Sugigi;Cirebon;01041983;36;P;;B;Tidak Kawin;PNS
+5;1008971776;Bambang Sutikno;Sumedang;01051984;35;L;AB;Kawin;Wiraswasta
